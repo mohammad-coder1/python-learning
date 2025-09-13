@@ -1,0 +1,20 @@
+# Python Learning
+
+This repository contains my Python learning journey and exercises.  
+I started from the basics and will keep adding small projects step by step.
+
+## Structure
+- day1/hello.py → My first Python script (Hello World)
+- day1/calculator.py → Simple calculator (add, subtract, multiply, divide)
+
+## Goals
+- Practice Python every day
+- Build small projects to improve coding skills
+- Learn backend development (FastAPI, Django)
+- Later move to full-stack and other languages
+
+## How to run
+1. Install Python 3
+2. Clone this repo:
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/python-learning.git
